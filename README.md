@@ -6,3 +6,5 @@ GitHub is:
 - Fun
 
 **And the lecturer as well!**
+
+![](https://avatars.githubusercontent.com/u/20774112?v=4)
